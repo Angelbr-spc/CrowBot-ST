@@ -31,14 +31,14 @@ global.prems = ['573215751237']
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
-global.packname = '【✧】𝐂𝐫𝐨𝐰𝐁𝐨𝐭 - 𝐌.𝐅 ❖'
-global.botname = '(✦◠‿◠)𝑪𝒓𝒐𝒘𝑩𝒐𝒕-𝑴𝑭'
-global.wm = '⏤͟͟͞͞⋆⬪࣪ꥈ🍨★ ׄ ꒱ 𝑪𝒓𝒐𝒘𝑩𝒐𝒕 - 𝑴.𝑭 ୭'
-global.author = '(⁎˃ᴗ˂⁎)𝐌𝐚𝐝𝐞 𝐁𝐲 𝐖𝐢𝐥𝐥𝐙𝐞𝐤𓆪'
+global.packname = '【✧】Angel𝐁𝐨𝐭 - 𝐌.𝐅 ❖'
+global.botname = '(✦◠‿◠)Angel𝑩𝒐𝒕-𝑴𝑭'
+global.wm = '⏤͟͟͞͞⋆⬪࣪ꥈ🍨★ ׄ ꒱ Angel𝑩𝒐𝒕 - 𝑴.𝑭 ୭'
+global.author = '(⁎˃ᴗ˂⁎)𝐌𝐚𝐝𝐞 𝐁𝐲 Angel𓆪'
 global.dev = '© ⍴᥆ᥕᥱrᥱძ ᑲᥡ m᥆᥆ᥒ-𝖿᥆rᥴᥱ'
 global.espera = '✰ 𝐄𝐬𝐩𝐞𝐫𝐚 𝐔𝐧 𝐌𝐨𝐦𝐞𝐧𝐭𝐨, 𝐄𝐬𝐭𝐚𝐦𝐨𝐬 𝐄𝐧𝐯𝐢𝐚𝐧𝐝𝐨 𝐒𝐮 𝐏𝐞𝐝𝐢𝐝𝐨 (✿◠‿◠)'
-global.namebot = 'ᥴr᥆ᥕᑲ᥆𝗍 s𝗍'
-global.textbot = `「 🔱 𝐂𝐫𝐨𝐰𝐁𝐨𝐭 - 𝐌𝐅 🔱 」`
+global.namebot = 'AngelBot s𝗍'
+global.textbot = `「 🔱 AngelBot - 𝐌𝐅 🔱 」`
 global.vs = '2.2.0'
 global.publi = '✰𝐒𝐢𝐠𝐮𝐞 𝐄𝐥 𝐂𝐚𝐧𝐚𝐥👇'
 
