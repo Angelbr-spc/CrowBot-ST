@@ -8,9 +8,9 @@ import axios from 'axios'
 import moment from 'moment-timezone' 
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
-// Staff De CrowBot
+// Staff De Angelbot
 global.owner = [
-   ['50557865603', 'Creador WillZek💛', true],
+   ['527227584934', 'Creador Angel💛', true],
    ['5212731595017', 'CrowBot Soporte', true],
    ['584148256527', 'Dev Diomar', true],
    ['584120346669', 'Dev ⁱᵃᵐ|𝔇ĕ𝐬†𝓻⊙γ𒆜', true],
@@ -19,7 +19,7 @@ global.owner = [
 ]
 
 global.creadorbot = [
-   ['50557865603', 'WillZek', true],
+   ['527227584934', 'Angel', true],
 ]
   
 
